@@ -16,6 +16,8 @@
 
 ![image3](https://github.com/user-attachments/assets/2ba471ac-4af7-4fde-8369-3e31aa28fa7d)
 
+![delete](https://github.com/user-attachments/assets/b0031bf4-efe0-4e31-b29e-872dd9892d10)
+
 
 ## Features
 * Splash screen
