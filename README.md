@@ -1,4 +1,4 @@
-# Siro's Task App
+# QuickTask App
 
 ## Description
 * A Flutter Task App with [Parse](https://parseplatform.org/) ([Back4app](https://back4app.com)) as the backend demonstrating CRUD operations.
@@ -7,15 +7,13 @@
 ## Objective
  This repo will be useful to developers looking for an alternative to backend services like Firebase as they will enjoy building apps without any third party libraries when they switch to using RestFUL APIs provided by the Back4App platform.
 
-## Article
-- [Technical Article on Hashnode](https://jacksiro.hashnode.dev/using-parse-server-back4app-as-an-alternative-to-firebase-for-your-flutter-app)
 
 ## ScreenShots
 <table>
     <tr>
-        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image1.jpg"/></td>
-        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image2.jpg"/></td>
-        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image3.jpg"/></td>
+        <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image1.jpg"/></td>
+        <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image2.jpg"/></td>
+        <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image3.jpg"/></td>
     </tr>
 </table>
 
@@ -41,12 +39,3 @@
 
 ## Contributions
 Contributions are always welcome. Please fork this repository and contribute using pull requests. The pull requests will be thoroughly assessed and if found significant will be accepted.
-
-## Connect with me
-- [Medium](https://medium.com/@JacksiroKe)
-- [Instagram](https://www.instagram.com/JacksiroKe)
-- [Twitter](https://www.twitter.com/JacksiroKe)
-- [LinkedIn](https://www.linkedin.com/in/JacksiroKe)
-- [Github](https://github.com/JacksiroKe)
-
-My email: JacksiroKe@gmail.com
