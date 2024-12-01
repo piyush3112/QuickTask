@@ -9,15 +9,12 @@
 
 
 ## ScreenShots
-<table>
-    <tr>
-        <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image1.jpg"/></td>
-        <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image2.jpg"/></td>
-        <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image3.jpg"/></td>
-    </tr>
-</table>
 
 ![image1](https://github.com/user-attachments/assets/2cb98893-9f43-4858-ae1e-9d9d7306ea8d)
+
+![image2](https://github.com/user-attachments/assets/f9ed0521-8a8a-4a00-92cd-898042a61e39)
+
+![image3](https://github.com/user-attachments/assets/2ba471ac-4af7-4fde-8369-3e31aa28fa7d)
 
 
 ## Features
