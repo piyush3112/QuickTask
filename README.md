@@ -11,7 +11,7 @@
 ## ScreenShots
 <table>
     <tr>
-        <td><img width=300 src="https://github.com/piyush3112/QuickTask/screenshots/image1.jpg"/></td>
+        <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image1.jpg"/></td>
         <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image2.jpg"/></td>
         <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image3.jpg"/></td>
     </tr>
