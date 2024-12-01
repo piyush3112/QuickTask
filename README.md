@@ -16,7 +16,7 @@
         <td><img width=300 src="https://github.com/piyush3112/QuickTask/tree/main/screenshots/image3.jpg"/></td>
     </tr>
 </table>
-
+![image1](https://github.com/user-attachments/assets/2cb98893-9f43-4858-ae1e-9d9d7306ea8d)
 ## Features
 * Splash screen
 * Search tasks
