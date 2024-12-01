@@ -20,6 +20,7 @@
 
 ![update](https://github.com/user-attachments/assets/1c171d7d-5b00-48f4-bb18-725116b58273)
 
+![login](https://github.com/user-attachments/assets/20e118d7-fa89-4df0-9c28-02e980f3d886)
 
 ## Features
 * Splash screen
