@@ -23,6 +23,9 @@
 ![login](https://github.com/user-attachments/assets/20e118d7-fa89-4df0-9c28-02e980f3d886)
 
 ## Features
+* Login Signup Screen
+* List of Tasks
+* Add Task
 * Splash screen
 * Search tasks
 * Save tasks as well as Update tasks
